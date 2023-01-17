@@ -118,6 +118,7 @@ The email is sent every 15 seconds because the
 measurement delay is 15 seconds.
 
 4 Conclusions and Future Work
+
 In summary, we understood the method for measuring,
 visualizing measured values, and creating
 triggers for an unwanted situation. We had slight
